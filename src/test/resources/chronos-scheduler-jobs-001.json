@@ -1,0 +1,23 @@
+[
+  {
+    "name":"my command",
+    "command":"echo \"hello from chronos!\" >> /tmp/chronos.txt",
+    "epsilon":"PT30M",
+    "executor":"",
+    "executorFlags":"",
+    "retries":2,
+    "owner":"dhoyt@guidewire.com",
+    "async":false,
+    "successCount":3,
+    "errorCount":0,
+    "lastSuccess":"2013-12-20T03:27:59.219Z",
+    "lastError":"",
+    "cpus":0.0,
+    "disk":0,
+    "mem":0,
+    "disabled":true,
+    "uris":[
+    ],
+    "schedule":"R/2013-12-19T03:28:02Z/PT10S"
+  }
+]
